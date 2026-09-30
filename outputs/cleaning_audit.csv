@@ -1,0 +1,6 @@
+step,count
+Original rows,48842
+Duplicate rows removed,52
+Missing labels removed,0
+Invalid numeric rows removed,0
+Clean rows,48790
